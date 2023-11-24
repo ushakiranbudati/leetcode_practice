@@ -25,4 +25,4 @@ Happy Coding!
 
 ## Covergae 
 
-[![Coverage Status](coverage.svg)]
+![Coverage Status](coverage.svg)
